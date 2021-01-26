@@ -1,6 +1,6 @@
 <!-- TODO link to portfolio -->
 
-[![banner](./assets/banner.png)](#)
+![banner](./assets/banner.png?raw=true)]
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alarid/Alarid)](#)
 [![Repos Badge](https://badges.pufler.dev/repos/Alarid)](#)
@@ -43,16 +43,13 @@ Passionated by technology, open source communities and innovative solutions, I a
 ## 📈 Github Stats
 <br/>
 
-<div style="display: flex; flex-flow: row wrap;">
-  <div style="margin-right: 1rem">
+<a href="https://github.com/Alarid">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alarid&count_private=true&show_icons=true&theme=dark&bg_color=1A2B34&text_color=c9cacc&exclude_repo=bons-ouvriers-prototype,flask-bootstrap-kickstart"/>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alarid&count_private=true&show_icons=true&theme=dark&bg_color=1A2B34&text_color=c9cacc&exclude_repo=bons-ouvriers-prototype,flask-bootstrap-kickstart)](https://github.com/anuraghazra/github-readme-stats)
-
-  </div>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Alarid&count_private=true&show_icons=true&theme=dark&bg_color=1A2B34&text_color=c9cacc)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+<a href="https://github.com/Alarid">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Alarid&count_private=true&show_icons=true&theme=dark&bg_color=1A2B34&text_color=c9cacc"/>
+</a>
 
 <!--
 
