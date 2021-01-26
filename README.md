@@ -1,6 +1,6 @@
 <!-- TODO link to portfolio -->
 
-![banner](https://raw.githubusercontent.com/Alarid/Alarid/main/assets/banner.png?raw=true)
+![banner](https://github.com/Alarid/Alarid/blob/main/assets/banner.png?raw=true)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alarid/Alarid)](#)
 [![Repos Badge](https://badges.pufler.dev/repos/Alarid)](#)
