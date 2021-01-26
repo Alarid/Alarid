@@ -1,5 +1,5 @@
 <!-- TODO link to portfolio -->
-![banner](./assets/banner.png)
+[![banner](./assets/banner.png)](#)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alarid/Alarid)](#)
 [![Repos Badge](https://badges.pufler.dev/repos/Alarid)](#)
