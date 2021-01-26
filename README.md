@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Alarid/Alarid/main/banner.png)
+![banner](assets/github-profile-banner.png)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alarid/Alarid)](#)
 [![Repos Badge](https://badges.pufler.dev/repos/Alarid)](#)
