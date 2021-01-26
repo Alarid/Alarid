@@ -1,3 +1,4 @@
+[![Braydon's GitHub Banner](./assets/banner.png)](https://braydoncoyer.dev)
 ![banner](https://github.com/Alarid/Alarid/blob/main/assets/banner.png?raw=true)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alarid/Alarid)](#)
