@@ -1,5 +1,3 @@
-<!-- TODO link to portfolio -->
-
 ![banner](https://github.com/Alarid/Alarid/blob/main/assets/banner.png?raw=true)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Alarid/Alarid)](#)
