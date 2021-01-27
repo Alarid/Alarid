@@ -28,7 +28,6 @@ Passionated by technology, open source communities and innovative solutions, I a
 <br/>
 
 ## 📌 Pinned Repositories
-<br/>
 
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Alarid&repo=WeatherApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/Alarid/WeatherApp)
 
@@ -39,7 +38,6 @@ Passionated by technology, open source communities and innovative solutions, I a
 <br/>
 
 ## 📈 Github Stats
-<br/>
 
 <a href="https://github.com/Alarid">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alarid&count_private=true&show_icons=true&theme=dark&bg_color=1A2B34&text_color=c9cacc&exclude_repo=bons-ouvriers-prototype,flask-bootstrap-kickstart"/>
@@ -48,6 +46,49 @@ Passionated by technology, open source communities and innovative solutions, I a
 <a href="https://github.com/Alarid">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Alarid&count_private=true&show_icons=true&theme=dark&bg_color=1A2B34&text_color=c9cacc"/>
 </a>
+<br/><br/>
+
+## 💼 Skills
+
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+
+
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Framework-React_Native-informational?style=flat&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Framework-Redux-informational?style=flat&logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=Next.js&logoColor=white)
+![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=Node.js&logoColor=white)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white)
+
+![](https://img.shields.io/badge/Tools-Firebase-blueviolet?style=flat&logo=Firebase&logoColor=white)
+![](https://img.shields.io/badge/Tools-Open_Street_Maps-blueviolet?style=flat&logo=OpenStreetMap&logoColor=white)
+![](https://img.shields.io/badge/Tools-Leaflet-blueviolet?style=flat&logo=Leaflet&logoColor=white)
+![](https://img.shields.io/badge/Tools-Algolia-blueviolet?style=flat&logo=Algolia&logoColor=white)
+![](https://img.shields.io/badge/Tools-Strapi-blueviolet?style=flat&logo=Strapi&logoColor=white)
+![](https://img.shields.io/badge/Tools-Slack-blueviolet?style=flat&logo=Slack&logoColor=white)
+![](https://img.shields.io/badge/Tools-Figma-blueviolet?style=flat&logo=Figma&logoColor=white)
+![](https://img.shields.io/badge/Tools-Styled--Components-blueviolet?style=flat&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/Tools-NPM-blueviolet?style=flat&logo=NPM&logoColor=white)
+![](https://img.shields.io/badge/Tools-Postman-blueviolet?style=flat&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-blueviolet?style=flat&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Tools-GitHub-blueviolet?style=flat&logo=GitHub&logoColor=white)
+![](https://img.shields.io/badge/Tools-GitLab-blueviolet?style=flat&logo=GitLab&logoColor=white)
+![](https://img.shields.io/badge/Tools-Jira-blueviolet?style=flat&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/Tools-Asana-blueviolet?style=flat&logo=Asana&logoColor=white)
+![](https://img.shields.io/badge/Tools-Docker-blueviolet?style=flat&logo=Docker&logoColor=white)
+![](https://img.shields.io/badge/Tools-Jenkins-blueviolet?style=flat&logo=Jenkins&logoColor=white)
+
+![](https://img.shields.io/badge/Project-Agile-orange?style=flat)
+![](https://img.shields.io/badge/Project-Architecture-orange?style=flat)
+![](https://img.shields.io/badge/Project-Conception-orange?style=flat)
+![](https://img.shields.io/badge/Project-Responsive-orange?style=flat)
+![](https://img.shields.io/badge/Project-UI/UX_Integration-orange?style=flat)
+
 
 <!--
 
