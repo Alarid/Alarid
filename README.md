@@ -33,7 +33,7 @@ Passionated by technology, open source communities and innovative solutions, I a
 
 [![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=Alarid&repo=WeatherApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/Alarid/WeatherApp)
 
-[![CRA Node JWT Auth](https://github-readme-stats.vercel.app/api/pin/?username=Alarid&repo=cra-node-jwt-auth&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/Alarid/cra-node-jwt-auth)
+[![CRA TS Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=Alarid&repo=cra-ts-bootstrap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/Alarid/cra-ts-bootstrap)
 
 [![Blackjack](https://github-readme-stats.vercel.app/api/pin/?username=Alarid&repo=Blackjack&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/Alarid/Blackjack)
 
