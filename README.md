@@ -11,7 +11,9 @@ Hey there 👋
 I am a freelance fullstack developer, specialized in React / TypeScript / Next / Node. I eat JavaScript for breakfast 😁
 
 Passionated by technology, open source communities and innovative solutions, I also play music (guitar & bass) and enjoy exploring the wonders of the world.
-<br/><br/>
+
+I write articles about JavaScript, React or web development in general here: [https://javascript-for-breakfast.com](https://javascript-for-breakfast.com)
+
 
 ## ℹ️ About Me
 🇫🇷 &nbsp; French <br/>
