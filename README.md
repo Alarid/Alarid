@@ -24,7 +24,9 @@ Passionated by technology, open source communities and innovative solutions, I a
 
 ## 📝 Latest Blog Posts
 <!-- TODO make dynamic -->
-[Lazy Loading with React](https://dev.to/alarid/lazy-loading-with-react-292c) <br/>
+[`console.log` like a pro](https://javascript-for-breakfast.com/consolelog-like-a-pro)
+[CodeSandbox & Github Magic](https://javascript-for-breakfast.com/codesandbox-and-github-magic)
+[Lazy Loading with React](https://javascript-for-breakfast.com/lazy-loading-with-react) <br/>
 <br/>
 
 ## 📌 Pinned Repositories
