@@ -26,9 +26,16 @@ I write articles about JavaScript, React or web development in general here: [ht
 
 ## 📝 Latest Blog Posts
 <!-- TODO make dynamic -->
-[`console.log` like a pro](https://javascript-for-breakfast.com/consolelog-like-a-pro)
-[CodeSandbox & Github Magic](https://javascript-for-breakfast.com/codesandbox-and-github-magic)
-[Lazy Loading with React](https://javascript-for-breakfast.com/lazy-loading-with-react) <br/>
+* [Manipulating arrays by use case](https://javascript-for-breakfast.com/manipulating-arrays-by-use-case)
+* [New ES2021 JavaScript features (now available)](https://javascript-for-breakfast.com/new-es2021-javascript-features)
+* [(Part 2) Build quality forms with React 🚀](https://javascript-for-breakfast.com/build-quality-forms-with-react-part-2)
+* [(Part 1) Build quality forms with React 🚀](https://javascript-for-breakfast.com/build-quality-forms-with-react)
+* [Master the art of React.useEffect](https://javascript-for-breakfast.com/master-the-art-of-reactuseeffect)
+* [Ever wonder what React does?](https://javascript-for-breakfast.com/ever-wonder-what-react-does)
+* [`console.log` like a pro](https://javascript-for-breakfast.com/consolelog-like-a-pro)
+* [CodeSandbox & Github Magic](https://javascript-for-breakfast.com/codesandbox-and-github-magic)
+* [Lazy Loading with React](https://javascript-for-breakfast.com/lazy-loading-with-react) 
+
 <br/>
 
 ## 📌 Pinned Repositories
