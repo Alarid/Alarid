@@ -17,7 +17,7 @@ I write articles about JavaScript, React or web development in general here: [ht
 
 ## ℹ️ About Me
 🇫🇷 &nbsp; French <br/>
-🎂 &nbsp; 29 winters old <br/>
+🎂 &nbsp; 30 winters old <br/>
 💻 &nbsp; 10 years as a web developer <br/>
 🎸 &nbsp; 17 years as a guitarist / bassist <br/>
 🥝 &nbsp; Lived 1 year in New Zealand <br/>
@@ -26,6 +26,7 @@ I write articles about JavaScript, React or web development in general here: [ht
 
 ## 📝 Latest Blog Posts
 <!-- TODO make dynamic -->
+* [Understanding equality of values in JavaScript](https://javascript-for-breakfast.com/understanding-equality-of-values-in-javascript)
 * [Manipulating arrays by use case](https://javascript-for-breakfast.com/manipulating-arrays-by-use-case)
 * [New ES2021 JavaScript features (now available)](https://javascript-for-breakfast.com/new-es2021-javascript-features)
 * [(Part 2) Build quality forms with React 🚀](https://javascript-for-breakfast.com/build-quality-forms-with-react-part-2)
